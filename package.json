@@ -1,0 +1,22 @@
+{
+  "name": "gitpod-nodejs",
+  "version": "1.0.0",
+  "description": "getting started",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajitirto/gitpod-simple.git"
+  },
+  "author": "ajitirto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajitirto/gitpod-simple/issues"
+  },
+  "homepage": "https://github.com/ajitirto/gitpod-simple#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
